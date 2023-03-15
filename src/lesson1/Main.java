@@ -4,7 +4,7 @@ package lesson1;
  * Java Core. Basic level. Lesson 1
  *
  * @author Maxo Khubulovi
- * @version dated October 15, 2023
+ * @version dated Mart 15, 2023
  */
 public class Main {
     public static void main(String[] args) {
