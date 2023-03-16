@@ -1,6 +1,12 @@
 package lesson0;
 
 
+/**
+ * Java Core. Basic level. Lesson 1
+ *
+ * @author Maxo Khubulovi
+ * @version dated Mart 15, 2023
+ */
 
 public class Main {
 //    1.Создать пустой проект в IntelliJ IDEA, создать класс HomeWorkApp, и прописать в нем метод main().
