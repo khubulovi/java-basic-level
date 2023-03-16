@@ -2,7 +2,7 @@ package lesson0;
 
 
 /**
- * Java Core. Basic level. Lesson 1
+ * Java Core. Basic level. Lesson 0
  *
  * @author Maxo Khubulovi
  * @version dated Mart 15, 2023
