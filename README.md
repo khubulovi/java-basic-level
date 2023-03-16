@@ -7,5 +7,5 @@ ___
 
 ### Основные темы курса:
 * [Урок 1.](https://github.com/khubulovi/java-basic-level/blob/master/src/lesson1/Main.java) Java. Введение
-* [Урок 2.](https://github.com/khubulovi/java-basic-level/blob/master/src/lesson1/Main.java) Основные конструкции
+* [Урок 2.](https://github.com/khubulovi/java-basic-level/blob/master/src/lesson2/Main.java) Основные конструкции
 ____
