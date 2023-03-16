@@ -24,7 +24,7 @@ public class Main {
         System.out.println(checkNegative(-2) + "\n");
 
         // task №7
-        printHello("Nika");
+        printHello("Malkhaz");
 
         // task №8
         System.out.println(checkLeapYear(2000));
