@@ -1,15 +1,16 @@
 package lesson4;
+/**
+ * Java Core. Basic level. Lesson 4
+ *
+ * @author Maxo Khubulovi
+ * @version dated Mart 17, 2023
+ */
 
 import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-    /**
-     * Java Core. Basic level. Lesson 4
-     *
-     * @author Maxo Khubulovi
-     * @version dated Mart 17, 2023
-     */
+
 
 
 //    1. Полностью разобраться с кодом, попробовать переписать с нуля, стараясь не подглядывать в методичку;
