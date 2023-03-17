@@ -1,16 +1,20 @@
 package lesson3;
 
+
+/**
+ * Java Core. Basic level. Lesson 3
+ *
+ * @author Maxo Khubulovi
+ * @version dated Mart 17, 2023
+ */
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class Main {
-    /**
-     * Java Core. Basic level. Lesson 3
-     *
-     * @author Maxo Khubulovi
-     * @version dated Mart 17, 2023
-     */
+
     public static Random r = new Random();
     public static Scanner s = new Scanner(System.in);
 
