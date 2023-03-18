@@ -16,7 +16,8 @@ public class Main {
     public static void main(String[] args) {
         Animal[] animals = new Animal[]{
                 new Cat("Barsik", 200, 2.0),
-                new Dog("Shurik", 500, 0.5, 10)
+                new Dog("Shurik", 400, 0.5, 10),
+                new Dog("Lastochka", 600, 3.5, 5)
         };
         for (Animal animal : animals
         ) {
