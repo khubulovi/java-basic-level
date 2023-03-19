@@ -1,6 +1,6 @@
 package lesson6;
 /**
- * Java Core. Basic level. Lesson 5
+ * Java Core. Basic level. Lesson 6
  *
  * @author Maxo Khubulovi
  * @version dated Mart 18, 2023
