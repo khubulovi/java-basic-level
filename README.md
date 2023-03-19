@@ -16,4 +16,4 @@ ___
 * [Урок 7.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson7) Практика ООП и работы со строками
 * [Урок 8.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson8) Написание приложения с графическим интерфейсом
 ____
-https://github.com/khubulovi/java-basic-level/tree/master/src/lesson6
+
