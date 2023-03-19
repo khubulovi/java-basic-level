@@ -12,7 +12,8 @@ ___
 * [Урок 3.](https://github.com/khubulovi/java-basic-level/blob/master/src/lesson3/Main.java) Практика
 * [Урок 4.](https://github.com/khubulovi/java-basic-level/blob/master/src/lesson4/Main.java) Крестик-нолик в процедурном стиле
 * [Урок 5.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson5) Введение в ООП
-* [Урок 6.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson6) Продвинутое ООП
-* * [Урок 7.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson7) Практика ООП и работы со строками
+* [Урок 6.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson6) Продвинутое ООП 
+* [Урок 7.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson7) Практика ООП и работы со строками
+* [Урок 8.](https://github.com/khubulovi/java-basic-level/tree/master/src/lesson8) Написание приложения с графическим интерфейсом
 ____
 https://github.com/khubulovi/java-basic-level/tree/master/src/lesson6
