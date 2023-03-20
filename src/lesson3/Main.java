@@ -14,7 +14,6 @@ import java.util.Scanner;
 
 
 public class Main {
-
     public static Random r = new Random();
     public static Scanner s = new Scanner(System.in);
 
