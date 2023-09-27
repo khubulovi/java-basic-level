@@ -24,7 +24,7 @@ public class Main {
         System.out.println(checkNegative(-2) + "\n");
 
         // task №7
-        printHello("Malkhaz");
+         printWords("Malkhaz",4);
 
         // task №8
         System.out.println(checkLeapYear(2000));
@@ -61,8 +61,13 @@ public class Main {
      * сумма лежит в пределах от 10 до 20 (включительно), если да – вернуть
      * true, в противном случае – false
      */
-    public static boolean expressionCheck(int a, int b) {
-        return a >= 10 && b <= 20;
+    public static void expressionCheck(int a, int b) {
+         int sum = a + b;
+        if (sum > 10 && sum < 20) {
+            System.out.println("true");
+        }
+        else {
+            System.out.println("false");}
     }
 
     /**
@@ -74,21 +79,27 @@ public class Main {
         System.out.println(a >= 0 ? "Positive\n" : "Negative\n");
     }
 
-    /**
-     * 5. Написать метод, которому в качестве параметра передается целое число,
-     * метод должен напечатать в консоль положительное ли число передали,
-     * или отрицательное. Замечание: ноль считаем положительным числом
+
+   /**
+     * 6. Написать метод, которому в качестве параметра передается целое число,
+     * метод должен вернуть true, если число отрицательное
      */
+
     public static boolean checkNegative(int a) {
         return a < 0;
     }
 
     /**
-     * 6. Написать метод, которому в качестве параметра передается целое число,
-     * метод должен вернуть true, если число отрицательное
+    7.Написать метод, которому  отпечатать в консоль указанную строку, указанное количество раз;
      */
-    public static void printHello(String name) {
-        System.out.println("Hello, " + name + "!\n");
+
+    public static void printWords(String a,int b) {
+        int c=0;
+       do{ for (int i = 0; i < 5; i++) {
+            System.out.print(a + " ");
+            c++;
+        }
+        }while(c==b);
     }
 
     /**
