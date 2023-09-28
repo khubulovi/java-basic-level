@@ -95,7 +95,7 @@ public class Main {
 
     public static void printWords(String a,int b) {
         int c=0;
-       do for (int i = 0; i < 5; i++) {
+       do {
            System.out.print(a + " ");
            c++;
        } while(c==b);
