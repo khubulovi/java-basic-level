@@ -78,11 +78,7 @@ public class Niggers {
     }
 
     public void setAge(int age) {
-        if (age >= 18) {
-            this.age = age;
-        } else {
-            System.out.println("This Nigga can't work here because he is less than 18!!!");
-        }
+       this.age=age;
     }
     public int getSalary() {
         return salary;
@@ -91,8 +87,14 @@ public class Niggers {
     public void setSalary(int salary) {
         this.salary = salary;
     }
+    
+    public void searchWorkers(int age){
+        if(age<=this.age){
+            info();
+        }
+    }
 
-    public void seeWorkers() {
+    public void info() {
         System.out.println(name + " " + lastname + " " + surname + " " + age + " " + mail + " " + possition + " " + possition + " " + phoneNumber + " " + salary);
     }
 }
