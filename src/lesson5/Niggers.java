@@ -18,11 +18,6 @@ public class Niggers {
         this.possition = possition;
         this.salary = salary;
         this.phoneNumber = phoneNumber;
-        if (age >= 18) {
-            this.age = age;
-        } else {
-            System.out.println("This Nigga can't work here because he is less than 18!!!");
-        }
     }
 
     public String getName() {
