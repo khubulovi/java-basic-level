@@ -90,6 +90,13 @@ public class Niggers {
     }
 
     public void info() {
-        System.out.println(name + " " + lastname + " " + surname + " " + age + " " + mail + " " + possition + " " + possition + " " + phoneNumber + " " + salary);
+        System.out.println("Worker{" +
+                "name='" + name + '\'' +
+                ", placeOfWork='" + placeOfWork + '\'' +
+                ", mail='" + mail + '\'' +
+                ", number=" + number +
+                ", salary=" + salary +
+                ", age=" + age +
+                '}');
     }
 }
