@@ -35,7 +35,7 @@ public class Main {
                 new Niggers("Temp", "Saroyan", "Toge neznaiuvic", 23, "nenzaiuu@mail.ri", "pomoshnikpodsosnika", 50, "23243242")};
 
         for (Niggers nigger : workers) {
-            if (nigger.getAge() >= 40) nigger.seeWorkers();
+            nigger.searchWorkers(40);
         }
     }
 
