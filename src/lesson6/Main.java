@@ -21,7 +21,7 @@ public class Main {
         };
         for (Animal animal : animals
         ) {
-            System.out.println(animal.getClass().getSimpleName() +
+            System.out.println(
                     "\nrun: " + animal.run(400) +
                     "\njump: " + animal.jump(0.7) +
                     "\nswim: " + animal.swim(7));
