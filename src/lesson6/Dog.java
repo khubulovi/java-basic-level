@@ -6,17 +6,17 @@ public class Dog extends Animal{
     }
     @Override
     public boolean run(int lenght) {
-        return lenght<=run;
+        return lenght<=runLimit;
     }
 
     @Override
     public boolean swim(int lenght) {
-        return lenght<=sweem;
+        return lenght<=swimLimit;
     }
 
     @Override
     public boolean jump(double height) {
-        return height<=jump;
+        return height<=jumpLimit;
     }
 }
 
