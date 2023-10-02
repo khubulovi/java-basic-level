@@ -2,29 +2,22 @@ package lesson6;
 
 public abstract class Animal {
     protected String name;
-    protected int run;
-    protected double jump;
-    protected int sweem;
+    protected int runLimit;
+    protected double jumpLimit;
+    protected int swimLimit;
 
-    public Animal(String name, int run, int sweem, double jump) {
+    public Animal(String name,int runLimit,double jumpLimit,int swimLimit) {
         this.name = name;
-        this.run = run;
-        this.sweem = sweem;
-        this.jump = jump;
+        this.runLimit = runLimit;
+        this.jumpLimit = jumpLimit;
+        this.swimLimit = swimLimit;
     }
 
     public abstract boolean run(int lenght);
     public abstract boolean swim(int lenght);
     public abstract boolean jump(double height);
 
-    public void amimalInfo() {
-        System.out.println("Animal{" +
-                "name='" + name + '\'' +
-                ", run=" + run +
-                ", jump=" + jump +
-                ", sweem=" + sweem +
-                '}');
-    }
+
 }
 
 
