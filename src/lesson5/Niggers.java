@@ -73,7 +73,10 @@ public class Niggers {
     }
 
     public void setAge(int age) {
-       this.age=age;
+       if (age >= 18) {
+       this.age = age;
+       } else {
+       System.out.println("He cant work here");
     }
     public int getSalary() {
         return salary;
